@@ -39,7 +39,7 @@ const ACTIONS: Array<NavigationItem> = [
 
 export default function HomePage(): JSX.Element {
 	const today = new Date();
-	const birthday = new Date('1997-08-09');
+	const birthday = new Date('2009-11-30');
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
