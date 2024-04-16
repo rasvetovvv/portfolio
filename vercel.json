@@ -10,7 +10,7 @@
 	"redirects": [
 		{
 			"source": "/cv",
-			"destination": "https://read.cv/nuro"
+			"destination": "https://read.cv/rasvetovvv"
 		},
 		{
 			"source": "/github",
@@ -18,7 +18,7 @@
 		},
 		{
 			"source": "/linkedin",
-			"destination": "https://www.linkedin.com/in/nurodev"
+			"destination": "https://www.linkedin.com/in/rasvetovvv"
 		},
 		{
 			"source": "/portfolio",
@@ -26,15 +26,15 @@
 		},
 		{
 			"source": "/resume",
-			"destination": "https://read.cv/nuro"
+			"destination": "https://read.cv/ravetovvv"
 		},
 		{
 			"source": "/twitter",
-			"destination": "https://twitter.com/nurodev"
+			"destination": "https://twitter.com/rasvetovvv"
 		},
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/nurodev"
+			"destination": "https://twitter.com/direct_messages/create/rasvetovvv"
 		}
 	]
 }
